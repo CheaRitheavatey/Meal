@@ -36,3 +36,19 @@ button {
 footer {
     border: 2px dashed black;
 }
+a {
+    text-decoration: none; 
+    color: yellow
+}
+
+a:visited {
+    color: green;
+}
+
+a:hover {
+    opacity: 0.5;;
+}
+
+a:active {
+    color: red;
+}
