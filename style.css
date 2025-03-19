@@ -1,3 +1,34 @@
+* {
+    box-sizing: content-box;
+    /* font-family: 'Courier New', Courier, monospace; */
+    /* font-size: 1.2rem; */
+}
 body {
     background-color: antiquewhite;
+}
+
+#ti1 {
+    border: 2px dashed red;
+    /* padding: 2% 25% 2% 25%; */
+}
+
+button {
+    margin: 2%;
+}
+
+
+#about {
+    border: 2px dashed black;
+    width: 50%;
+}
+
+#generate {
+    border: 2px dashed red;
+}
+#budget {
+    border: 2px dashed black;
+}
+
+footer {
+    border: 2px dashed black;
 }
